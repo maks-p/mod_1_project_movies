@@ -7,8 +7,8 @@
 </h2>
 
 <h2>
-  <b>Data Sources & Methods</b><
-/h2>
+  <b>Data Sources & Methods</b>
+</h2>
 <body>
   <p>
   <ul>

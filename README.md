@@ -30,6 +30,6 @@
     <li>After cleaning data and removing outliers, resulting data set of 3,125 (US only).</li><br>
     <li> Twelve total Movie Studios including Lionsgate (excluding subsidiaries).</li><br>
     <li>Primary metrics: World Wide Gross Revenue, Budget, Revenue Multiple (Revenue / Budget) centered on Production Credits.        </li>
-    </ul>
+  </ul>
   </p>
-  ![X](Screen%20Shot%202019-03-29%20at%2012.40.41%20PM.png)
+![Screenshot](https://github.com/maks-p/mod_1_project_movies/blob/master/screenshot_1.png)

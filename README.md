@@ -32,4 +32,4 @@
     <li>Primary metrics: World Wide Gross Revenue, Budget, Revenue Multiple (Revenue / Budget) centered on Production Credits.        </li>
   </ul>
   </p>
-![Screenshot](https://github.com/maks-p/mod_1_project_movies/blob/master/screenshot_1.png)
+![Screenshot](screenshot_1.png)
